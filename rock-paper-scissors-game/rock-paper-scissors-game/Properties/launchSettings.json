@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rock-paper-scissors-game": {
+      "commandName": "Project",
+      "commandLineArgs": "rock paper scissors lizard Spock"
+    }
+  }
+}

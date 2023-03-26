@@ -32,7 +32,7 @@
             }
             else if (!NumerOfMovesNotLessThanTwo(moves.Length))
             {
-                errorMessage += "Moves must  more than 2 move.\n";
+                errorMessage += "Moves must be more than 2 move.\n";
             }
             if (!NumerOfMovesIsOdd(moves.Length))
             {

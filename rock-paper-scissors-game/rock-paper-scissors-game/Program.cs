@@ -6,7 +6,7 @@ namespace rock_paper_scissors_game
     {
         static void Main(string[] args)
         {
-            PSRGame game = new PSRGame(null);
+            PSRGame game = new PSRGame(args);
             game.Playing();
         }
     }
